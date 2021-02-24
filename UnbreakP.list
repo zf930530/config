@@ -1,14 +1,4 @@
-# Unbreak
-# > General
-USER-AGENT,archero*
-USER-AGENT,coffeecorp*
-USER-AGENT,Coffee%20Corp*
-USER-AGENT,restaurant-mobile*
-DOMAIN,app.adjust.com
-DOMAIN,bdtj.tagtic.cn
-# > Alibaba
-DOMAIN,log.mmstat.com
-DOMAIN,sycm.mmstat.com
+# Unbreak Proxy
 # > Google
 DOMAIN-SUFFIX,blog.google // Google Blog
 DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
@@ -30,12 +20,3 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
-# > Tencent
-DOMAIN,fairplay.l.qq.com
-DOMAIN,livew.l.qq.com
-DOMAIN,vd.l.qq.com
-# > Strava
-DOMAIN,analytics.strava.com
-# > Umeng
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
