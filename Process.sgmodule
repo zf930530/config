@@ -1,0 +1,6 @@
+#!name=Process Rules
+#!desc=应用连接规则
+#!system=mac
+[Rule]
+PROCESS-NAME,FutuNiuniu,DIRECT
+PROCESS-NAME,FutuOpenD,DIRECT
