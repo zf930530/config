@@ -4,6 +4,7 @@
 [Rule]
 DOMAIN-SUFFIX,webullfintech.com,DIRECT
 DOMAIN-SUFFIX,webull.com,DIRECT
+DOMAIN-SUFFIX,bullwe.com,DIRECT
 DOMAIN-SUFFIX,branch.io,DIRECT
 DOMAIN-SUFFIX,moomoo.com,DIRECT
 DOMAIN-SUFFIX,futunn.com,DIRECT
