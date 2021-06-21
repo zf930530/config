@@ -1,7 +1,8 @@
-#!name=券商
-#!desc=券商连接规则
+#!name=订阅规则调整
+#!desc=调整订阅的规则，用于iPhone
 #!system=ios
 [Rule]
+#内资美股券商直连
 DOMAIN-SUFFIX,webullfintech.com,DIRECT
 DOMAIN-SUFFIX,webull.com,DIRECT
 DOMAIN-SUFFIX,bullwe.com,DIRECT
