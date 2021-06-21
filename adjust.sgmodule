@@ -4,6 +4,7 @@
 [Rule]
 #内资美股券商直连
 DOMAIN-SUFFIX,webullfintech.com,DIRECT
+DOMAIN-SUFFIX,webullfinance.com,DIRECT
 DOMAIN-SUFFIX,webull.com,DIRECT
 DOMAIN-SUFFIX,bullwe.com,DIRECT
 DOMAIN-SUFFIX,branch.io,DIRECT
