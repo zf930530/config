@@ -10,5 +10,9 @@ DOMAIN-SUFFIX,bullwe.com,DIRECT
 DOMAIN-SUFFIX,branch.io,DIRECT
 DOMAIN-SUFFIX,moomoo.com,DIRECT
 DOMAIN-SUFFIX,futunn.com,DIRECT
+#香港银行直连
 DOMAIN-SUFFIX,bochk.com,DIRECT
+DOMAIN-SUFFIX,etnet.com.hk,DIRECT
 DOMAIN-SUFFIX,ncb.com.hk,DIRECT
+#DEBUG直连
+DOMAIN-SUFFIX,sessions.bugsnag.com,DIRECT
