@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,sessions.bugsnag.com,DIRECT
 DOMAIN-SUFFIX,p1.pstatp.com,REJECT
 DOMAIN-SUFFIX,tuan.tuan512.cn,REJECT
 DOMAIN-SUFFIX,coll.v00yvd.xyz,REJECT
+DOMAIN-SUFFIX,fugufeimaotui.cn,REJECT
+DOMAIN-SUFFIX,yifenghuyu.com,REJECT
