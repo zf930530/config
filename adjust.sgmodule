@@ -16,3 +16,7 @@ DOMAIN-SUFFIX,etnet.com.hk,DIRECT
 DOMAIN-SUFFIX,ncb.com.hk,DIRECT
 #DEBUG直连
 DOMAIN-SUFFIX,sessions.bugsnag.com,DIRECT
+#广告拒绝
+DOMAIN-SUFFIX,p1.pstatp.com,REJECT
+DOMAIN-SUFFIX,tuan.tuan512.cn,REJECT
+DOMAIN-SUFFIX,coll.v00yvd.xyz,REJECT
