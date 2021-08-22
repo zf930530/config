@@ -1,5 +1,5 @@
 #!name=订阅规则调整
-#!desc=调整订阅的规则，用于iPhone
+#!desc=调整订阅的规则
 [Rule]
 #内资美股券商直连
 DOMAIN-SUFFIX,webullfintech.com,DIRECT
